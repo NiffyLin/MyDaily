@@ -32,3 +32,5 @@ jobs:
           STD_ID: ${{secrets.STD_ID}}
           SENDKEY: ${{secrets.SENDKEY}}
         run:  python3 main.py
+        
+        
